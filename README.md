@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrysHew (Chrysler Hewlwett)
+- 👋 Hi, I’m @ChrysHew (Chrysler Hewlett)
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently in my 3rd year of my computer science degree
 - 💞️ I’m looking to collaborate on peojects related to software development
